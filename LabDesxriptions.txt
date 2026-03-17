@@ -1,0 +1,16 @@
+Lab1: Working with image and graphics using Adobe Express
+Objective: Creating logos to implement concepts of image and graphics media in the context of multimedia computing.
+
+(work to do: design two different logos with multiple layers of graphic elements and describe the concepts of image and graphics in report)
+
+Lab2: Editing video using Adobe Express
+Objective: Editing videos to control various video functions for improved quality video product.
+
+(work to do: create a video of less than 60s length by combining two different videos from the template and apply thumbnail
+split, transition and cropping functions while editing the videos. Describe video media concepts in your report.)
+
+Lab3: Creating an animated video using Adboe Express
+Objective: Creating animated video using various animation functions.
+
+(work to do: create an animation of less than 50s starting with some template in Adobe and implement various animation functions 
+in your animated video product. Explain all the concepts in your report.
